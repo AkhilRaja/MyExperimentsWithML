@@ -62,7 +62,7 @@ You might have seen such data visualization plots in the past at different place
 (Worth reading and understanding t-SNE. We will not discuss it in the class and out of scope for this course/exams.)
 4. In practice ”face” is used for verification. i.e., in- put is ”identity/classID) and the face image” and response is ”Yes” or ”No”. (i) How do we formulate the problem using KNN (ii) How do we analyze the performance ? suggest the metrics (like accuracy) that is appropriate for this task. Show empirical re- sults with all the representations and variations in K.
 
-# 2.2 Extension/Application
+## 2.2 Extension/Application
 
 
 You know the basic pipeline for recognizing face now. Extend this to “one” of the following or similar problems. You are free to use a new dataset that is publicly avail-
@@ -74,7 +74,7 @@ able or even create one by crawling from internet.
 5. cartoon vs Real
 6. your-own-problem
 
-# 2.3
+## 2.3
 
 Briefly explain the problem. Why the problem is not trivial.
 Why a solution to this may be of some use. Suggest good applications. Suggest good reasons why solving your problem is
