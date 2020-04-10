@@ -61,7 +61,10 @@ You already know the paper “Face Recognition Us- ing Kernel Methods ”. See t
 You might have seen such data visualization plots in the past at different places. Here you will use a popular implementation.
 (Worth reading and understanding t-SNE. We will not discuss it in the class and out of scope for this course/exams.)
 4. In practice ”face” is used for verification. i.e., in- put is ”identity/classID) and the face image” and response is ”Yes” or ”No”. (i) How do we formulate the problem using KNN (ii) How do we analyze the performance ? suggest the metrics (like accuracy) that is appropriate for this task. Show empirical re- sults with all the representations and variations in K.
-2.2 Extension/Application
+
+# 2.2 Extension/Application
+
+
 You know the basic pipeline for recognizing face now. Extend this to “one” of the following or similar problems. You are free to use a new dataset that is publicly avail-
 able or even create one by crawling from internet.
 1. Politicians vs Filmstars in a public data set. (eg. LFW)
