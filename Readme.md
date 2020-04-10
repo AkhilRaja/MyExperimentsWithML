@@ -74,11 +74,10 @@ able or even create one by crawling from internet.
 5. cartoon vs Real
 6. your-own-problem
 
-## 2.3
 
 Briefly explain the problem. Why the problem is not trivial.
 Why a solution to this may be of some use. Suggest good applications. Suggest good reasons why solving your problem is
-Explain your experimental pipeline, splits, evalua- tion metrics, quantitative results, qualitative results.
+Explain your experimental pipeline, splits, evaluation metrics, quantitative results, qualitative results.
 
 
 ## Author
